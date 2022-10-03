@@ -4,7 +4,7 @@
 				|  _ <| |___ / ___ \| |_| | |  | | |___ 
 				|_| \_\_____/_/   \_\____/|_|  |_|_____|
 
-						Stroe Teodora 321CA 2021
+					Stroe Teodora 321CA 2021
 
 # TASK 1
 - uses a loop to create each element in ciphertext
