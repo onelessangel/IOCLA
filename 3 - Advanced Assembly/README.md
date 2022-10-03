@@ -55,7 +55,7 @@ In the given string, from end to beginning, the first + or - that is not between
 
 ### Term
 
-In the but string, the first * or / that is not between parentheses is searched for, from the end to the beginning. Then
+In the given string, the first * or / that is not between parentheses is searched for, from the end to the beginning. Then
 **term(word1)** and **factor(word2)** are called. If there is no separator, it is called
 **factor(string)**.
 
