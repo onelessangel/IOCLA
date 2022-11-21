@@ -27,5 +27,5 @@ Programs of medium to hard difficulty for practicing programming skills in x86 A
 task1      - ascending sort of a linked list;
 task2      - LCM and Correct Parenthesis Check using stack operations;
 task3      - sorting a text according to word length and lexicographically;
-cache      - complex mathematical expressions calculator using mutually-recursive functions.
+task4      - complex mathematical expressions calculator using mutually-recursive functions.
 ```
